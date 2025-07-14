@@ -1,0 +1,10 @@
+Time resolution is 1 ps
+Time	A	B	S	Result	Carry
+0	7	9	000	0	1
+10000	10	4	001	6	0
+20000	3	5	010	15	0
+30000	12	10	011	8	0
+40000	12	10	100	14	0
+50000	12	10	101	6	0
+60000	1	2	111	0	0
+$finish called at time : 70 ns : File "/home/avi/alu/alu.srcs/sources_1/new/alu.v" Line 92
